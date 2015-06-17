@@ -13,6 +13,8 @@ https://github.com/djayku/google-homepage -->
     <img src="https://www.google.com.hk/images/srpr/logo11w.png">
 </p
 
+<form action="search.php" method="post"
+
 <p>
     <input type="text" name="search">
 </p>
