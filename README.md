@@ -9,7 +9,13 @@ https://github.com/djayku/google-homepage -->
 <body>
 <title> Jason's Google Homepage </title>
 
-<img src="https://www.google.com.hk/images/srpr/logo11w.png">
+<p>
+    <img src="https://www.google.com.hk/images/srpr/logo11w.png">
+</p
+
+<p>
+    <input type="text" name="search">
+</p>
 
 
 </body>
